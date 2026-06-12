@@ -2,6 +2,8 @@
 
 A small [Next.js](https://nextjs.org) demo that fetches recipes from [DummyJSON](https://dummyjson.com/docs/recipes).
 
+Live app: [https://ssr-ovm-production.up.railway.app/](https://ssr-ovm-production.up.railway.app/)
+
 ## Getting Started
 
 Install dependencies and run the development server:
